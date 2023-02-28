@@ -1,0 +1,24 @@
+{
+  "name": "Akhil Manga",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Blockchain Developer",
+  "avatar": "https://github.com/akhilmanga.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/akhil_manga",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on Linkedin",
+      "url": "https://www.linkedin.com/in/akhil-manga-a1173a24b/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Follow me on Github",
+      "url": "https://github.com/akhilmanga",
+      "icon": "FaGithub"
+    }
+  ]
+}
